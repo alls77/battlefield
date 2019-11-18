@@ -2,9 +2,9 @@ from utils import current_time_ms
 
 
 class Unit:
-    def __init__(self, health, recharge: int):
+    def __init__(self, health: float, recharge: int):
         self._health = health
-        self.recharge_ms = recharge
+        self._recharge = recharge
         self.recharge_time = 0
 
     @property
@@ -22,11 +22,11 @@ class Unit:
     def get_damage(self, damage):
         pass
 
-    def inflict_damage(self):
+    def inflict_damage(self) -> float:
         pass
 
-    def attack_probability(self):
+    def attack_probability(self) -> float:
         pass
 
     def recharge(self):
-        self.recharge_time = current_time_ms() + self.recharge_ms
+        self.recharge_time = current_time_ms() + self._recharge
