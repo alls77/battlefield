@@ -1,0 +1,386 @@
+{
+  "seed": 123,
+  "armies": [
+    {
+      "name": "Army 1",
+      "strategy": "random",
+      "squads": [
+        {
+          "name": "S1",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 2
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S2",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S3",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S4",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S5",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Army 2",
+      "strategy": "strongest",
+      "squads": [
+        {
+          "name": "S1",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 5
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S2",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S3",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S4",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S5",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 6
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+                {
+          "name": "S6",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Army 3",
+      "strategy": "weakest",
+      "squads": [
+        {
+          "name": "S1",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S2",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "S3",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S4",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S5",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Army 4",
+      "strategy": "random",
+      "squads": [
+        {
+          "name": "S1",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 5
+            },
+            {
+              "type": "Vehicle",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "S2",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S3",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S4",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S5",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 6
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Army 6",
+      "strategy": "strongest",
+      "squads": [
+        {
+          "name": "S1",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S2",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S3",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S4",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S5",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 3
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "S6",
+          "units": [
+            {
+              "type": "Soldier",
+              "count": 4
+            },
+            {
+              "type": "Vehicle",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
