@@ -1,5 +1,5 @@
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock
 from Strategies.strategies import WeakestStrategy
 
 
@@ -8,14 +8,14 @@ class TestStrategy(unittest.TestCase):
     def setUp(self):
         self.strategy = WeakestStrategy()
 
-    @patch('squad.Squad')
-    @patch('squad.Squad')
-    def test_choose(self, mock_squad1, mock_squad2):
-        mock_squad1.inflict_damage.return_value = 10
-        mock_squad2.inflict_damage.return_value = 20
+    def test_choose(self):
+        squad1 = Mock()
+        squad1.inflict_damage.return_value = 10
+        squad2 = Mock()
+        squad2.inflict_damage.return_value = 20
 
-        result = self.strategy.choose([mock_squad1, mock_squad2])
-        self.assertIs(result, mock_squad1)
+        result = self.strategy.choose([squad1, squad2])
+        self.assertIs(result, squad1)
 
     def test_choose_negative(self):
         with self.assertRaises(ValueError):

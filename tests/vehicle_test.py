@@ -20,6 +20,14 @@ class TestVehicle(unittest.TestCase):
         with self.assertRaises(IndexError):
             vehicle.get_damage(100)
 
+    def test_get_damage_with_two_operators(self):
+        vehicle = Vehicle([Soldier(), Soldier()])
+
+        vehicle.get_damage(100)
+        self.assertEqual(vehicle.health, 140)
+        for operator in vehicle.operators:
+            self.assertEqual(operator.health, 80)
+
     def test_get_damage_with_one_operator(self):
         vehicle = Vehicle([Soldier()])
 

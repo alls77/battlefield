@@ -15,13 +15,6 @@ class TestSquad(unittest.TestCase):
         squad.attack(enemy)
         self.assertEqual(enemy.units[0].health, 90)
 
-    @patch('Units.soldier.Soldier')
-    @patch('Units.vehicle.Vehicle')
-    def test_active_units(self, mock_vehicle, mock_soldier):
-        squad = Squad('s1', [mock_soldier, mock_vehicle])
-
-        self.assertEqual(len(squad.active_units), 2)
-
 
 if __name__ == '__main__':
     unittest.main()
