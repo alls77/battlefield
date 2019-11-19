@@ -54,222 +54,225 @@
     "attack": "the attack failed"
   },
   "13": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(14.0) to S2 of Army 3"
   },
   "14": {
     "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(3.0) to S3 of Army 6"
+    "squads": "S5 of Army 3 inflict damage(3.0) to S2 of Army 6"
   },
   "15": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(2.5) to S3 of Army 2"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "16": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "17": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "18": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "19": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(3.5) to S4 of Army 1"
+    "squads": "S2 of Army 1 inflict damage(3.0) to S4 of Army 4"
   },
   "20": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "21": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(3.5) to S2 of Army 6"
   },
   "22": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 3 inflict damage(3.0) to S3 of Army 6"
   },
   "23": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(10.5) to S1 of Army 2"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 3 has no available_units to attack"
   },
   "24": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 3 inflict damage(2.5) to S3 of Army 1"
   },
   "25": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(2.5) to S3 of Army 2"
+    "squads": "S4 of Army 6 inflict damage(2.5) to S5 of Army 2"
   },
   "26": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(10.5) to S5 of Army 4"
   },
   "27": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 6 inflict damage(2.5) to S5 of Army 1"
+    "squads": "S2 of Army 4 inflict damage(2.5) to S1 of Army 2"
   },
   "28": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(3.0) to S5 of Army 4"
   },
   "29": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(3.0) to S5 of Army 2"
   },
   "30": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(7.0) to S4 of Army 3"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "31": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 3 inflict damage(10.5) to S3 of Army 6"
   },
   "32": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(3.0) to S4 of Army 4"
   },
   "33": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(3.0) to S2 of Army 4"
+    "squads": "S2 of Army 1 inflict damage(10.5) to S5 of Army 2"
   },
   "34": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(19.5) to S2 of Army 6"
+    "squads": "S3 of Army 1 inflict damage(10.5) to S1 of Army 3"
   },
   "35": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(10.5) to S2 of Army 1"
+    "squads": "S2 of Army 6 inflict damage(45.0) to S4 of Army 4"
   },
   "36": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(10.5) to S4 of Army 6"
+    "squads": "S6 of Army 6 inflict damage(3.0) to S4 of Army 4"
   },
   "37": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "38": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 2 inflict damage(3.0) to S3 of Army 4"
-  },
-  "39": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(3.0) to S3 of Army 2"
-  },
-  "40": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "39": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "40": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
   "41": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "42": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(10.5) to S2 of Army 2"
+    "squads": "S2 of Army 6 inflict damage(38.0) to S5 of Army 2"
   },
   "43": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "44": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "45": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(3.0) to S3 of Army 3"
+    "squads": "S4 of Army 3 inflict damage(10.5) to S4 of Army 2"
   },
   "46": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 1 has no available_units to attack"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(50.0) to S5 of Army 2"
   },
   "47": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(14.0) to S5 of Army 4"
+    "squads": "S2 of Army 3 inflict damage(19.5) to S4 of Army 2"
   },
   "48": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "49": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "50": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(19.5) to S3 of Army 1"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
   },
   "51": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "52": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(14.0) to S3 of Army 6"
+    "squads": "S1 of Army 4 inflict damage(3.0) to S4 of Army 6"
   },
   "53": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 2 inflict damage(3.5) to S3 of Army 3"
+    "squads": "S5 of Army 3 inflict damage(33.0) to S3 of Army 6"
   },
   "54": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 4 inflict damage(3.0) to S5 of Army 3"
-  },
-  "55": {
     "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(28.5) to S5 of Army 2"
+    "squads": "S1 of Army 1 inflict damage(35.5) to S5 of Army 2"
+  },
+  "55": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
   },
   "56": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "57": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "58": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(3.5) to S2 of Army 6"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
   },
   "59": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "60": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(29.5) to S3 of Army 3"
   },
   "61": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "62": {
@@ -279,279 +282,275 @@
   "63": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(28.5) to S3 of Army 1"
+    "squads": "S5 of Army 3 inflict damage(26.0) to S1 of Army 1"
   },
   "64": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(3.0) to S1 of Army 2"
+    "squads": "S3 of Army 1 inflict damage(48.0) to S2 of Army 3"
   },
   "65": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 2 inflict damage(49.5) to S4 of Army 4"
   },
   "66": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "67": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 4 inflict damage(17.5) to S2 of Army 3"
   },
   "68": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(45.0) to S3 of Army 1"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "69": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 3 has no available_units to attack"
+    "attack": "the attack failed"
   },
   "70": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "71": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(37.5) to S2 of Army 1"
+    "attack": "the attack failed"
   },
   "72": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(10.5) to S4 of Army 2"
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "73": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "74": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(10.5) to S4 of Army 3"
+    "squads": "S3 of Army 1 inflict damage(28.5) to S6 of Army 2"
   },
   "75": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(66.0) to S5 of Army 3"
+    "squads": "S5 of Army 3 inflict damage(38.0) to S3 of Army 4"
   },
   "76": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(2.5) to S5 of Army 3"
-  },
-  "77": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(19.5) to S3 of Army 3"
-  },
-  "78": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(41.5) to S5 of Army 3"
-  },
-  "79": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "80": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed",
-    "squads": "S3 of Army 1 has no available_units to attack"
-  },
-  "81": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 4 inflict damage(14.0) to S4 of Army 3"
-  },
-  "82": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(75.0) to S1 of Army 1"
-  },
-  "83": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(4.0) to S3 of Army 4"
-  },
-  "84": {
     "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(19.5) to S4 of Army 4"
+    "squads": "S1 of Army 1 inflict damage(13.0) to S5 of Army 4"
   },
-  "85": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(38.5) to S4 of Army 3"
-  },
-  "86": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "87": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "88": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "89": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(10.5) to S6 of Army 2"
-  },
-  "90": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "91": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 1 has no available_units to attack"
-  },
-  "92": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(2.5) to S2 of Army 3"
-  },
-  "93": {
+  "77": {
     "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "94": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+  "78": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "95": {
+  "79": {
     "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 3 inflict damage(3.0) to S3 of Army 6"
+  },
+  "80": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 3 has no available_units to attack"
+  },
+  "81": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "96": {
+  "82": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(19.0) to S5 of Army 2"
+  },
+  "83": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "84": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(48.0) to S3 of Army 6"
+  },
+  "85": {
     "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "86": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S1 of Army 1 has no available_units to attack"
+  },
+  "87": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(29.5) to S1 of Army 4"
+  },
+  "88": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(48.0) to S4 of Army 3"
+  },
+  "89": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "90": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(39.0) to S1 of Army 4"
+  },
+  "91": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "92": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "93": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 6 inflict damage(2.5) to S1 of Army 4"
+  },
+  "94": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "95": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 3 inflict damage(87.0) to S3 of Army 4"
+  },
+  "96": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
   "97": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "98": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(54.5) to S2 of Army 6"
+    "squads": "S1 of Army 2 inflict damage(4.0) to S1 of Army 4"
   },
   "99": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(46.5) to S2 of Army 6"
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "100": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(38.0) to S2 of Army 6"
+    "squads": "S4 of Army 2 inflict damage(3.5) to S2 of Army 6"
   },
   "101": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(2.5) to S4 of Army 6"
+    "squads": "S1 of Army 4 inflict damage(42.0) to S4 of Army 3"
   },
   "102": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "103": {
     "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed",
-    "squads": "S5 of Army 1 has no available_units to attack"
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(93.0) to S1 of Army 3"
   },
   "104": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "105": {
     "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(28.5) to S6 of Army 6"
+    "squads": "S4 of Army 1 inflict damage(56.5) to S6 of Army 6"
+  },
+  "105": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 3 inflict damage(14.0) to S3 of Army 4"
   },
   "106": {
     "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "107": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 2 inflict damage(39.0) to S2 of Army 6"
+    "squads": "S6 of Army 6 inflict damage(33.0) to S1 of Army 4"
   },
   "108": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "109": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "110": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "111": {
     "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(55.5) to S1 of Army 4"
+    "squads": "S5 of Army 1 inflict damage(28.5) to S3 of Army 4"
   },
   "112": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed",
-    "squads": "S5 of Army 1 has no available_units to attack"
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "113": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 3 inflict damage(62.0) to S6 of Army 2"
   },
   "114": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(28.5) to S2 of Army 3"
   },
   "115": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(64.5) to S3 of Army 4"
-  },
-  "116": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(19.0) to S1 of Army 4"
-  },
-  "117": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(2.5) to S1 of Army 6"
-  },
-  "118": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "116": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(3.0) to S5 of Army 2"
+  },
+  "117": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "118": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(42.5) to S2 of Army 6"
+  },
   "119": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(37.5) to S5 of Army 6"
+  },
+  "120": {
     "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "120": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(55.5) to S1 of Army 1"
-  },
   "121": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "122": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 3 has no available_units to attack"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "123": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "124": {
@@ -559,47 +558,47 @@
     "attack": "the attack failed"
   },
   "125": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(14.0) to S5 of Army 3"
   },
   "126": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(56.5) to S5 of Army 3"
   },
   "127": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(57.0) to S2 of Army 2"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "128": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "129": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(26.0) to S5 of Army 2"
   },
   "130": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 6 inflict damage(3.0) to S5 of Army 1"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
   },
   "131": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(10.5) to S5 of Army 2"
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "132": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 2 inflict damage(42.5) to S4 of Army 4"
+    "squads": "S2 of Army 3 inflict damage(57.0) to S3 of Army 4"
   },
   "133": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "134": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "135": {
@@ -607,171 +606,173 @@
     "attack": "the attack failed"
   },
   "136": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(29.5) to S1 of Army 4"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "137": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 4 inflict damage(29.5) to S2 of Army 3"
   },
   "138": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(120.0) to S3 of Army 2"
+    "squads": "S3 of Army 1 inflict damage(129.0) to S5 of Army 4"
   },
   "139": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(49.5) to S5 of Army 6"
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "140": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(102.0) to S3 of Army 6"
   },
   "141": {
     "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(10.5) to S6 of Army 6"
-  },
-  "142": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed"
   },
-  "143": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 6 inflict damage(14.0) to S4 of Army 4"
-  },
-  "144": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(42.5) to S4 of Army 4"
-  },
-  "145": {
+  "142": {
     "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
-  "146": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+  "143": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(3.5) to S1 of Army 4"
   },
-  "147": {
+  "144": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "148": {
+  "145": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "146": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(55.5) to S3 of Army 2"
+  },
+  "147": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(33.0) to S1 of Army 2"
+  },
+  "148": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(14.0) to S1 of Army 4"
+  },
   "149": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "150": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(19.5) to S6 of Army 6"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "151": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "152": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(129.0) to S6 of Army 6"
+    "squads": "S4 of Army 1 inflict damage(83.5) to S4 of Army 2"
   },
   "153": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "154": {
     "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "155": {
+  "154": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "155": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(26.0) to S5 of Army 6"
+    "squads": "S2 of Army 4 inflict damage(19.5) to S3 of Army 6"
   },
   "156": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 2 has no available_units to attack"
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "157": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 4 inflict damage(45.0) to S2 of Army 6"
+    "attack": "the attack failed"
   },
   "158": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(64.5) to S5 of Army 4"
   },
   "159": {
     "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "160": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(26.0) to S6 of Army 6"
   },
   "161": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(75.0) to S6 of Army 6"
+    "squads": "S4 of Army 1 inflict damage(37.5) to S1 of Army 4"
   },
   "162": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "163": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "164": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(73.5) to S2 of Army 2"
+    "squads": "S6 of Army 6 inflict damage(63.0) to S1 of Army 4"
   },
   "165": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(38.5) to S5 of Army 3"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "166": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(81.5) to S5 of Army 3"
   },
   "167": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(57.0) to S1 of Army 2"
+    "squads": "S2 of Army 4 inflict damage(28.5) to S2 of Army 3"
   },
   "168": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(73.5) to S3 of Army 4"
   },
   "169": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "170": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(74.5) to S3 of Army 2"
+    "squads": "S5 of Army 6 inflict damage(2.5) to S5 of Army 3"
   },
   "171": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "172": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(75.0) to S2 of Army 4"
   },
   "173": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "174": {
@@ -779,1131 +780,1132 @@
     "attack": "the attack failed"
   },
   "175": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(57.0) to S2 of Army 4"
   },
   "176": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(80.5) to S1 of Army 3"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "177": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(29.5) to S3 of Army 1"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "178": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "179": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 4 inflict damage(4.0) to S5 of Army 3"
+    "squads": "S4 of Army 1 inflict damage(46.5) to S3 of Army 6"
   },
   "180": {
     "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "181": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 4 inflict damage(74.5) to S4 of Army 3"
   },
   "182": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(28.5) to S5 of Army 3"
   },
   "183": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(37.5) to S5 of Army 6"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "184": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(93.0) to S1 of Army 3"
   },
   "185": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(99.0) to S5 of Army 3"
   },
   "186": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "187": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(46.5) to S2 of Army 4"
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
   },
   "188": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "189": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(93.0) to S3 of Army 2"
-  },
-  "190": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(38.5) to S3 of Army 3"
-  },
-  "191": {
     "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(82.5) to S1 of Army 3"
+    "squads": "S3 of Army 1 inflict damage(192.0) to S4 of Army 3"
   },
-  "192": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(46.5) to S3 of Army 2"
-  },
-  "193": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+  "189": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "194": {
+  "190": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 3 inflict damage(93.0) to S3 of Army 4"
+  },
+  "191": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 6 inflict damage(38.0) to S5 of Army 3"
+  },
+  "192": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(91.5) to S5 of Army 4"
+  },
+  "193": {
     "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(54.5) to S5 of Army 3"
+  },
+  "194": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "195": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 4 inflict damage(46.5) to S4 of Army 3"
   },
   "196": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 1 has no available_units to attack"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(83.5) to S5 of Army 2"
   },
   "197": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "198": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed"
   },
   "199": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(50.0) to S6 of Army 6"
+    "squads": "S4 of Army 1 inflict damage(128.5) to S3 of Army 2"
   },
   "200": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(31.0) to S5 of Army 4"
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "201": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(93.5) to S1 of Army 6"
+    "squads": "S4 of Army 2 inflict damage(42.5) to S5 of Army 3"
   },
   "202": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed",
-    "squads": "S1 of Army 1 has no available_units to attack"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "203": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "204": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(28.5) to S6 of Army 6"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "205": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(165.0) to S4 of Army 2"
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "206": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(37.5) to S5 of Army 6"
+    "squads": "S4 of Army 2 inflict damage(26.0) to S6 of Army 6"
   },
   "207": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "208": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(55.5) to S1 of Army 4"
+    "squads": "S4 of Army 6 inflict damage(37.5) to S4 of Army 4"
   },
   "209": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(47.5) to S6 of Army 6"
+    "squads": "S1 of Army 1 inflict damage(80.5) to S3 of Army 4"
   },
   "210": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(38.5) to S3 of Army 6"
+    "squads": "S3 of Army 1 inflict damage(100.5) to S6 of Army 2"
   },
   "211": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "212": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "213": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 4 inflict damage(75.0) to S5 of Army 2"
+    "squads": "S2 of Army 2 inflict damage(120.5) to S6 of Army 6"
   },
   "214": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "215": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 6 inflict damage(105.0) to S5 of Army 3"
   },
   "216": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "217": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "218": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(174.0) to S1 of Army 3"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "219": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "220": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(120.0) to S5 of Army 3"
   },
   "221": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(119.5) to S2 of Army 4"
-  },
-  "222": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(111.0) to S5 of Army 4"
-  },
-  "223": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "224": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+  "222": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "223": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(19.5) to S4 of Army 4"
+    "squads": "S4 of Army 2 inflict damage(38.0) to S2 of Army 4"
+  },
+  "224": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(246.0) to S5 of Army 2"
   },
   "225": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "226": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(105.5) to S5 of Army 3"
+    "squads": "S5 of Army 6 inflict damage(29.5) to S5 of Army 2"
   },
   "227": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(129.0) to S1 of Army 2"
   },
   "228": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "229": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "230": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(100.5) to S5 of Army 2"
-  },
-  "231": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "232": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "233": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(46.5) to S1 of Army 2"
-  },
-  "234": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(64.5) to S3 of Army 4"
-  },
-  "235": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "236": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(65.5) to S5 of Army 3"
-  },
-  "237": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "238": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "239": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "240": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(46.0) to S5 of Army 3"
-  },
-  "241": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "242": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(73.5) to S1 of Army 6"
-  },
-  "243": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(91.5) to S1 of Army 2"
-  },
-  "244": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "245": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(65.5) to S5 of Army 3"
-  },
-  "246": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(82.5) to S2 of Army 3"
-  },
-  "247": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "248": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "249": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(119.5) to S3 of Army 2"
-  },
-  "250": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 1 has no available_units to attack"
-  },
-  "251": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "252": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(33.0) to S6 of Army 6"
-  },
-  "253": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(132.5) to S1 of Army 6"
-  },
-  "254": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "255": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(73.5) to S3 of Army 3"
-  },
-  "256": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "257": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "258": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "259": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "260": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "261": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(62.0) to S3 of Army 1"
-  },
-  "262": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 4 inflict damage(3.0) to S1 of Army 2"
-  },
-  "263": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "264": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "265": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "266": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(26.0) to S6 of Army 6"
-  },
-  "267": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "268": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(117.0) to S6 of Army 6"
-  },
-  "269": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(91.5) to S3 of Army 2"
-  },
-  "270": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(37.5) to S5 of Army 2"
-  },
-  "271": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S5 of Army 6 has no available_units to attack"
-  },
-  "272": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "273": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(43.0) to S2 of Army 3"
-  },
-  "274": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "275": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "276": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "277": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 3 inflict damage(74.0) to S6 of Army 6"
-  },
-  "278": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "279": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(156.5) to S5 of Army 6"
-  },
-  "280": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "281": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "282": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "283": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "284": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(56.5) to S1 of Army 2"
-  },
-  "285": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "286": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "287": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 3 has no available_units to attack"
-  },
-  "288": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "289": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(210.0) to S6 of Army 6"
-  },
-  "290": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(62.0) to S5 of Army 6"
-  },
-  "291": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "292": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(219.0) to S4 of Army 4"
-  },
-  "293": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "294": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(165.0) to S5 of Army 4"
-  },
-  "295": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "296": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "297": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "298": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(86.0) to S5 of Army 6"
-  },
-  "299": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "300": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "301": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "302": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "303": {
     "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "304": {
+  "229": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(129.0) to S5 of Army 2"
+  },
+  "230": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(119.5) to S5 of Army 2"
+  },
+  "231": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "232": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(138.0) to S2 of Army 3"
+  },
+  "233": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "234": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 2 inflict damage(46.0) to S2 of Army 3"
+  },
+  "235": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 1 has no available_units to attack"
+  },
+  "236": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "237": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "238": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "239": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "240": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 4 inflict damage(4.0) to S5 of Army 2"
+  },
+  "241": {
     "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(91.5) to S2 of Army 4"
+    "squads": "S1 of Army 1 inflict damage(31.0) to S4 of Army 4"
   },
-  "305": {
+  "242": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 6 inflict damage(29.5) to S2 of Army 3"
+  },
+  "243": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 6 has no available_units to attack"
+  },
+  "244": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(55.5) to S4 of Army 1"
+  },
+  "245": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "246": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "247": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(64.5) to S5 of Army 4"
+  },
+  "248": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "249": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "250": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(86.0) to S2 of Army 3"
+  },
+  "251": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "252": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "253": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "254": {
     "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "306": {
+  "255": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(73.5) to S1 of Army 6"
+  },
+  "256": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "257": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "258": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 6 inflict damage(56.5) to S2 of Army 3"
+  },
+  "259": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "260": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "261": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "262": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(282.0) to S1 of Army 6"
+  },
+  "263": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 1 has no available_units to attack"
+  },
+  "264": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "265": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 6 inflict damage(28.5) to S2 of Army 3"
+  },
+  "266": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "267": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(159.5) to S2 of Army 3"
+  },
+  "268": {
     "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(75.0) to S4 of Army 3"
+  },
+  "269": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(192.0) to S3 of Army 3"
+  },
+  "270": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "271": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(156.0) to S2 of Army 4"
+  },
+  "272": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "273": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "274": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "275": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "276": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "277": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "278": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(55.5) to S2 of Army 4"
+  },
+  "279": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "280": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "281": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(62.0) to S2 of Army 6"
+  },
+  "282": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(165.0) to S5 of Army 3"
+  },
+  "283": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S5 of Army 1 has no available_units to attack"
+  },
+  "284": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 4 inflict damage(40.0) to S4 of Army 3"
+  },
+  "285": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "286": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "287": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(91.5) to S3 of Army 4"
+  },
+  "288": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(119.5) to S2 of Army 3"
+  },
+  "289": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "290": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(127.5) to S2 of Army 2"
+  },
+  "291": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(155.5) to S3 of Army 2"
+  },
+  "292": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "293": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 6 inflict damage(56.5) to S2 of Army 3"
+  },
+  "294": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "295": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 4 inflict damage(1.0) to S3 of Army 3"
+  },
+  "296": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "297": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "298": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 3 inflict damage(45.0) to S3 of Army 6"
+  },
+  "299": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "300": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(327.0) to S5 of Army 4"
+  },
+  "301": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(64.5) to S2 of Army 3"
+  },
+  "302": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
+  },
+  "303": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(93.5) to S2 of Army 4"
+  },
+  "304": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "305": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "306": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "307": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(118.5) to S6 of Army 2"
+    "squads": "S4 of Army 6 inflict damage(155.5) to S2 of Army 2"
   },
   "308": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(237.0) to S2 of Army 3"
   },
   "309": {
     "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(109.5) to S1 of Army 4"
+    "squads": "S1 of Army 3 inflict damage(2.5) to S3 of Army 4"
   },
   "310": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(92.5) to S4 of Army 4"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "311": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(50.0) to S5 of Army 3"
   },
   "312": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(43.0) to S1 of Army 6"
   },
   "313": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "314": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(118.5) to S3 of Army 2"
-  },
-  "315": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(75.0) to S3 of Army 2"
-  },
-  "316": {
     "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "317": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+  "315": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "316": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(127.5) to S3 of Army 4"
+    "squads": "S4 of Army 4 inflict damage(105.0) to S1 of Army 3"
+  },
+  "317": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(62.0) to S5 of Army 3"
   },
   "318": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(28.5) to S6 of Army 6"
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "319": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(173.5) to S3 of Army 6"
+    "squads": "S5 of Army 6 inflict damage(92.5) to S2 of Army 2"
   },
   "320": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 4 inflict damage(105.0) to S5 of Army 6"
+    "squads": "S4 of Army 2 inflict damage(105.5) to S2 of Army 4"
   },
   "321": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(74.0) to S5 of Army 4"
   },
   "322": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(73.5) to S2 of Army 2"
   },
   "323": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(201.0) to S3 of Army 3"
   },
   "324": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "325": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(129.0) to S1 of Army 4"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "326": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(37.5) to S3 of Army 1"
+    "squads": "S4 of Army 2 inflict damage(62.0) to S5 of Army 3"
   },
   "327": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(158.5) to S5 of Army 3"
   },
   "328": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "329": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(50.0) to S3 of Army 2"
-  },
-  "330": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "331": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "332": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(46.5) to S5 of Army 3"
-  },
-  "333": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "334": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "335": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(183.5) to S5 of Army 3"
-  },
-  "336": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(100.5) to S5 of Army 6"
-  },
-  "337": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(65.5) to S6 of Army 6"
-  },
-  "338": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "339": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "340": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "341": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(273.0) to S3 of Army 3"
-  },
-  "342": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "343": {
     "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
-  "344": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+  "330": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(101.5) to S6 of Army 6"
+    "squads": "S4 of Army 2 inflict damage(74.0) to S2 of Army 6"
   },
-  "345": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(55.5) to S3 of Army 4"
-  },
-  "346": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+  "331": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "347": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "348": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(55.5) to S3 of Army 2"
-  },
-  "349": {
+  "332": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "350": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+  "333": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(264.0) to S1 of Army 4"
+    "squads": "S1 of Army 6 inflict damage(87.0) to S2 of Army 2"
   },
-  "351": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(145.5) to S6 of Army 2"
-  },
-  "352": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(94.5) to S3 of Army 4"
-  },
-  "353": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "354": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "355": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(88.0) to S3 of Army 6"
-  },
-  "356": {
+  "334": {
     "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 6 inflict damage(55.0) to S3 of Army 4"
+    "squads": "S2 of Army 6 inflict damage(171.0) to S5 of Army 4"
   },
-  "357": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+  "335": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(57.0) to S3 of Army 6"
+    "squads": "S6 of Army 6 inflict damage(135.0) to S3 of Army 2"
   },
-  "358": {
+  "336": {
     "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(219.0) to S2 of Army 2"
+    "squads": "S1 of Army 1 inflict damage(55.0) to S1 of Army 2"
+  },
+  "337": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "338": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "339": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 4 inflict damage(55.0) to S3 of Army 3"
+  },
+  "340": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "341": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "342": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(273.0) to S4 of Army 3"
+  },
+  "343": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(118.5) to S4 of Army 3"
+  },
+  "344": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "345": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "346": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 4 has no available_units to attack"
+  },
+  "347": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 6 inflict damage(191.5) to S3 of Army 2"
+  },
+  "348": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "349": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "350": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "351": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(73.5) to S5 of Army 4"
+  },
+  "352": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(182.5) to S4 of Army 2"
+  },
+  "353": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 6 inflict damage(74.0) to S4 of Army 4"
+  },
+  "354": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(246.0) to S6 of Army 2"
+  },
+  "355": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "356": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "357": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "358": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
   },
   "359": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "360": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "361": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "362": {
+  "360": {
     "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "361": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(74.5) to S1 of Army 4"
+    "squads": "S3 of Army 1 inflict damage(363.0) to S4 of Army 6"
+  },
+  "362": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(91.5) to S2 of Army 2"
   },
   "363": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(64.5) to S1 of Army 2"
+    "squads": "S3 of Army 1 inflict damage(151.5) to S3 of Army 3"
   },
   "364": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(158.5) to S5 of Army 6"
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
   },
   "365": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(86.0) to S3 of Army 6"
+    "squads": "S5 of Army 6 inflict damage(119.5) to S3 of Army 3"
   },
   "366": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S1 of Army 1 has no available_units to attack"
-  },
-  "367": {
     "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
+  },
+  "367": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 4 inflict damage(37.0) to S4 of Army 3"
   },
   "368": {
     "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(136.5) to S1 of Army 2"
+    "attack": "the attack failed"
   },
   "369": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(37.5) to S1 of Army 2"
+    "squads": "S6 of Army 6 inflict damage(177.0) to S2 of Army 2"
   },
   "370": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S5 of Army 4 has no available_units to attack"
   },
   "371": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "372": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "373": {
     "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "372": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "373": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
   "374": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(64.5) to S1 of Army 6"
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "375": {
     "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(200.5) to S5 of Army 3"
+    "squads": "S4 of Army 1 inflict damage(82.5) to S4 of Army 3"
   },
   "376": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(145.5) to S1 of Army 1"
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "377": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(46.5) to S3 of Army 2"
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "378": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 2 inflict damage(55.5) to S4 of Army 4"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "379": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 6 inflict damage(29.5) to S3 of Army 1"
+    "attack": "the attack failed"
   },
   "380": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 4 inflict damage(40.0) to S1 of Army 6"
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "381": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 6 inflict damage(55.5) to S3 of Army 3"
   },
   "382": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(118.5) to S2 of Army 6"
-  },
-  "383": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(127.5) to S2 of Army 4"
-  },
-  "384": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(117.0) to S3 of Army 2"
-  },
-  "385": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "386": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(118.5) to S3 of Army 4"
-  },
-  "387": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "388": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(110.5) to S1 of Army 3"
-  },
-  "389": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(47.5) to S3 of Army 6"
-  },
-  "390": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "391": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "392": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(146.5) to S3 of Army 2"
-  },
-  "393": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(127.5) to S6 of Army 2"
-  },
-  "394": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "395": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(136.5) to S4 of Army 4"
-  },
-  "396": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "397": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "398": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 2 inflict damage(81.5) to S4 of Army 4"
-  },
-  "399": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "400": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(136.5) to S5 of Army 3"
-  },
-  "401": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "402": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(145.5) to S1 of Army 3"
-  },
-  "403": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 1 has no available_units to attack"
-  },
-  "404": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "405": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "406": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "407": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "408": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+  "383": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(197.5) to S2 of Army 6"
   },
-  "409": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "410": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "411": {
+  "384": {
     "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(55.0) to S6 of Army 2"
+    "squads": "S4 of Army 1 inflict damage(91.5) to S3 of Army 2"
   },
-  "412": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+  "385": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(318.0) to S4 of Army 2"
+  },
+  "386": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "413": {
+  "387": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "388": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "414": {
+  "389": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 4 inflict damage(73.0) to S1 of Army 6"
+  },
+  "390": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 1 has no available_units to attack"
+  },
+  "391": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "392": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(227.5) to S6 of Army 6"
+  },
+  "393": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "394": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "395": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "396": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 6 inflict damage(98.0) to S4 of Army 2"
+  },
+  "397": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(117.0) to S3 of Army 3"
+  },
+  "398": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "399": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(396.0) to S1 of Army 2"
+  },
+  "400": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "401": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "402": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "403": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "404": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(136.5) to S3 of Army 3"
+  },
+  "405": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "406": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 3 inflict damage(29.5) to S1 of Army 6"
+  },
+  "407": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(135.0) to S3 of Army 2"
+  },
+  "408": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(291.0) to S3 of Army 6"
+  },
+  "409": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(168.5) to S6 of Army 6"
+  },
+  "410": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "411": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 2 inflict damage(82.5) to S4 of Army 4"
+  },
+  "412": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "413": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(109.5) to S6 of Army 6"
+  },
+  "414": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "415": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 4 inflict damage(37.0) to S3 of Army 6"
+    "attack": "the attack failed",
+    "squads": "S2 of Army 4 has no available_units to attack"
   },
   "416": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(64.5) to S1 of Army 3"
-  },
-  "417": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S3 of Army 4 has no available_units to attack"
-  },
-  "418": {
     "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
+  "417": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S4 of Army 1 has no available_units to attack"
+  },
+  "418": {
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S4 of Army 1 has no available_units to attack"
+  },
   "419": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "420": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 3 inflict damage(55.0) to S3 of Army 2"
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "421": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 4 inflict damage(66.0) to S1 of Army 2"
   },
   "422": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(230.5) to S1 of Army 3"
   },
   "423": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed",
-    "squads": "S1 of Army 3 has no available_units to attack"
+    "squads": "S2 of Army 2 has no available_units to attack"
   },
   "424": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(183.0) to S5 of Army 4"
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed"
   },
   "425": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 4 inflict damage(73.5) to S1 of Army 3"
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "426": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "427": {
@@ -1911,20 +1913,21 @@
     "attack": "the attack failed"
   },
   "428": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(73.0) to S1 of Army 4"
   },
   "429": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 4 inflict damage(74.0) to S3 of Army 2"
   },
   "430": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 4 inflict damage(76.0) to S1 of Army 6"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
   },
   "431": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "432": {
@@ -1932,332 +1935,330 @@
     "attack": "the attack failed"
   },
   "433": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(234.5) to S2 of Army 4"
+    "squads": "S4 of Army 4 inflict damage(86.0) to S5 of Army 2"
   },
   "434": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(282.0) to S4 of Army 6"
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 2 has no available_units to attack"
   },
   "435": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed",
-    "squads": "S3 of Army 4 has no available_units to attack"
+    "squads": "S1 of Army 3 has no available_units to attack"
   },
   "436": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 1 has no available_units to attack"
-  },
-  "437": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "438": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "439": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(315.0) to S2 of Army 2"
-  },
-  "440": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "441": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "442": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(147.0) to S2 of Army 6"
-  },
-  "443": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S4 of Army 3"
-  },
-  "444": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(315.0) to S4 of Army 2"
-  },
-  "445": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "446": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "447": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "448": {
     "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed"
   },
-  "449": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(145.0) to S2 of Army 4"
-  },
-  "450": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "451": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "452": {
+  "437": {
     "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "438": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "439": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(354.0) to S4 of Army 2"
+  },
+  "440": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "441": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "442": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "443": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "444": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "445": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 2 inflict damage(163.5) to S4 of Army 4"
+  },
+  "446": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "447": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "448": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "449": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "450": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "451": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 4 inflict damage(62.5) to S1 of Army 2"
+  },
+  "452": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 3 inflict damage(37.0) to S3 of Army 6"
+  },
   "453": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
     "attack": "the attack failed"
   },
   "454": {
     "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 6 inflict damage(45.0) to S2 of Army 4"
+    "squads": "S4 of Army 6 inflict damage(218.5) to S4 of Army 4"
   },
   "455": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S3 of Army 1"
+    "squads": "S4 of Army 6 inflict damage(100.5) to S1 of Army 3"
   },
   "456": {
-    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "457": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "458": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "459": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(82.5) to S3 of Army 4"
-  },
-  "460": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "461": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "462": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 3 inflict damage(86.0) to S3 of Army 4"
-  },
-  "463": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S2 of Army 4"
-  },
-  "464": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S3 of Army 3 has no available_units to attack"
-  },
-  "465": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "457": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "458": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 4 inflict damage(19.0) to S1 of Army 3"
+  },
+  "459": {
+    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "460": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "461": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 4 inflict damage(105.0) to S1 of Army 3"
+  },
+  "462": {
+    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack failed",
+    "squads": "S1 of Army 4 has no available_units to attack"
+  },
+  "463": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(423.0) to S2 of Army 6"
+  },
+  "464": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "465": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
   "466": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "467": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 2 inflict damage(94.5) to S1 of Army 3"
   },
   "468": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 6 inflict damage(73.0) to S4 of Army 4"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "469": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(173.5) to S3 of Army 6"
+    "squads": "S5 of Army 1 inflict damage(327.0) to S1 of Army 4"
   },
   "470": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 4 has no available_units to attack"
   },
   "471": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "472": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(197.5) to S3 of Army 3"
-  },
-  "473": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "474": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "475": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "476": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "477": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "478": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "479": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S2 of Army 2"
-  },
-  "480": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "481": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(260.5) to S1 of Army 3"
-  },
-  "482": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(67.0) to S4 of Army 3"
-  },
-  "483": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "484": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(91.5) to S3 of Army 6"
-  },
-  "485": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "486": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "487": {
-    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "488": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S1 of Army 1"
-  },
-  "489": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 3 has no available_units to attack"
-  },
-  "490": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(157.5) to S5 of Army 4"
-  },
-  "491": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "492": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(342.0) to S3 of Army 4"
-  },
-  "493": {
     "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S4 of Army 4"
+    "squads": "S4 of Army 1 inflict damage(263.5) to S4 of Army 4"
   },
-  "494": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "495": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "496": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "497": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "498": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(228.0) to S2 of Army 6"
-  },
-  "499": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S6 of Army 2 inflict damage(207.5) to S5 of Army 4"
-  },
-  "500": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 6 inflict damage(56.5) to S4 of Army 2"
-  },
-  "501": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S3 of Army 6"
-  },
-  "502": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 2 inflict damage(82.5) to S5 of Army 6"
-  },
-  "503": {
+  "473": {
     "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed"
   },
-  "504": {
+  "474": {
     "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
-  "505": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+  "475": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "476": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(315.0) to S3 of Army 3"
+    "squads": "S4 of Army 1 inflict damage(127.5) to S5 of Army 2"
+  },
+  "477": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S6 of Army 2 inflict damage(207.5) to S2 of Army 4"
+  },
+  "478": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "479": {
+    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 4 has no available_units to attack"
+  },
+  "480": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "481": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "482": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(151.5) to S3 of Army 6"
+  },
+  "483": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(118.5) to S3 of Army 2"
+  },
+  "484": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 2 has no available_units to attack"
+  },
+  "485": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "486": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "487": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(147.0) to S2 of Army 4"
+  },
+  "488": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "489": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 6 inflict damage(155.5) to S2 of Army 2"
+  },
+  "490": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "491": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "492": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "493": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "494": {
+    "armies": "Army 4 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "495": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(136.5) to S5 of Army 4"
+  },
+  "496": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "497": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(86.0) to S2 of Army 4"
+  },
+  "498": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "499": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(151.5) to S6 of Army 2"
+  },
+  "500": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(145.5) to S6 of Army 2"
+  },
+  "501": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 2 inflict damage(163.5) to S4 of Army 4"
+  },
+  "502": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "503": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "504": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "505": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(127.5) to S3 of Army 4"
   },
   "506": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "507": {
@@ -2265,426 +2266,419 @@
     "attack": "the attack failed"
   },
   "508": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "509": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(100.5) to S2 of Army 2"
-  },
-  "510": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(187.0) to S4 of Army 4"
-  },
-  "511": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S4 of Army 2"
-  },
-  "512": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "510": {
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "511": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "512": {
+    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(450.0) to S3 of Army 4"
+  },
   "513": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "514": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "515": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(93.0) to S1 of Army 6"
+    "armies": "Army 4 (strategy: random) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "516": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack failed"
   },
   "517": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "518": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 4 (strategy: random);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S2 of Army 3"
+    "squads": "S4 of Army 2 inflict damage(109.5) to S5 of Army 4"
   },
   "519": {
-    "armies": "Army 4 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 4 inflict damage(55.0) to S1 of Army 6"
+    "squads": "S3 of Army 1 inflict damage(151.5) to S6 of Army 2"
   },
   "520": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S2 of Army 3"
+    "squads": "S1 of Army 1 inflict damage(269.5) to S4 of Army 2"
   },
   "521": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(109.5) to S5 of Army 4"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "522": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 1 has no available_units to attack"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "523": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 4 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 6 inflict damage(37.0) to S5 of Army 4"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "524": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "525": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(236.5) to S3 of Army 3"
+    "squads": "S2 of Army 1 inflict damage(390.0) to S4 of Army 6"
   },
   "526": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "527": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "528": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(381.0) to S6 of Army 6"
+  },
+  "529": {
     "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "529": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(111.0) to S5 of Army 6"
-  },
   "530": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S2 of Army 2"
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S5 of Army 1 has no available_units to attack"
   },
   "531": {
-    "armies": "Army 4 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(85.0) to S6 of Army 2"
   },
   "532": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "533": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "534": {
-    "armies": "Army 1 (strategy: random) attacks Army 4 (strategy: random);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(79.0) to S5 of Army 4"
+    "squads": "S4 of Army 1 inflict damage(314.5) to S2 of Army 2"
   },
   "535": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 4 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(227.5) to S5 of Army 4"
+    "squads": "S5 of Army 2 inflict damage(82.5) to S1 of Army 6"
   },
   "536": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "537": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "538": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "539": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S2 of Army 2"
-  },
-  "540": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 3 has no available_units to attack"
-  },
-  "541": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "542": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 3 inflict damage(127.5) to S1 of Army 1"
-  },
-  "543": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "544": {
     "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "538": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 6 inflict damage(189.0) to S2 of Army 2"
+  },
+  "539": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(91.0) to S5 of Army 2"
+  },
+  "540": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "541": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "542": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "543": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(97.0) to S4 of Army 6"
+  },
+  "544": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
   "545": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "546": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "547": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 3 has no available_units to attack"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "548": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "549": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "550": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "551": {
     "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S1 of Army 6"
+    "squads": "S4 of Army 1 inflict damage(151.5) to S5 of Army 6"
   },
-  "552": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "553": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(369.0) to S2 of Army 2"
-  },
-  "554": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
-  "555": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 3 has no available_units to attack"
-  },
-  "556": {
+  "551": {
     "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "552": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "553": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "554": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "555": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(151.5) to S1 of Army 2"
+  },
+  "556": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S4 of Army 1 has no available_units to attack"
+  },
   "557": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "558": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(151.5) to S4 of Army 2"
+  },
+  "559": {
     "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed",
     "squads": "S2 of Army 1 has no available_units to attack"
   },
-  "559": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
-  },
   "560": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(342.0) to S4 of Army 3"
+    "squads": "S5 of Army 1 inflict damage(145.5) to S3 of Army 2"
   },
   "561": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 6 inflict damage(91.0) to S3 of Army 2"
   },
   "562": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(318.5) to S5 of Army 2"
   },
   "563": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S5 of Army 1 has no available_units to attack"
   },
   "564": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "565": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(342.0) to S4 of Army 6"
+    "squads": "S5 of Army 6 inflict damage(182.5) to S6 of Army 2"
   },
   "566": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "567": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S3 of Army 2"
-  },
-  "568": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "569": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+  "568": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S5 of Army 2"
+    "squads": "S1 of Army 2 inflict damage(55.5) to S4 of Army 6"
+  },
+  "569": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(423.0) to S1 of Army 6"
   },
   "570": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "571": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S1 of Army 6 has no available_units to attack"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "572": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "573": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "574": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 6 inflict damage(19.0) to S4 of Army 2"
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "575": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "576": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "577": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 6 inflict damage(82.5) to S6 of Army 2"
   },
   "578": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S2 of Army 3 inflict damage(151.5) to S2 of Army 6"
+    "squads": "S6 of Army 2 inflict damage(136.5) to S1 of Army 6"
   },
   "579": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S1 of Army 1 has no available_units to attack"
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "580": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 2 inflict damage(163.5) to S2 of Army 3"
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S1 of Army 2 has no available_units to attack"
   },
   "581": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S4 of Army 1 inflict damage(332.5) to S6 of Army 2"
   },
   "582": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(477.0) to S1 of Army 2"
   },
   "583": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "584": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(229.0) to S2 of Army 3"
-  },
-  "585": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "586": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
+  "585": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(264.0) to S4 of Army 3"
+    "squads": "S1 of Army 1 inflict damage(101.0) to S3 of Army 6"
+  },
+  "586": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
   },
   "587": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 3 has no available_units to attack"
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed"
   },
   "588": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 3 (strategy: weakest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "589": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(190.5) to S2 of Army 3"
-  },
-  "590": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(238.5) to S2 of Army 3"
-  },
-  "591": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
+  "590": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "591": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(151.5) to S5 of Army 2"
+  },
   "592": {
-    "armies": "Army 3 (strategy: weakest) attacks Army 1 (strategy: random);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "593": {
-    "armies": "Army 1 (strategy: random) attacks Army 3 (strategy: weakest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(278.5) to S2 of Army 3"
-  },
-  "594": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S4 of Army 6"
-  },
-  "595": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "594": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "595": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S2 of Army 6 has no available_units to attack"
+  },
   "596": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "597": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S4 of Army 2"
-  },
-  "598": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "599": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S4 of Army 2"
-  },
-  "600": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
+  "598": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed"
+  },
+  "599": {
+    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "attack": "the attack failed"
+  },
+  "600": {
+    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S5 of Army 1 inflict damage(423.0) to S1 of Army 2"
+  },
   "601": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
+    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed"
   },
   "602": {
     "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S1 of Army 1 has no available_units to attack"
+    "attack": "the attack was successful",
+    "squads": "S2 of Army 1 inflict damage(151.5) to S5 of Army 2"
   },
   "603": {
     "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
@@ -2695,367 +2689,66 @@
     "attack": "the attack failed"
   },
   "605": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
   "606": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(151.5) to S2 of Army 6"
   },
   "607": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "608": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "609": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "610": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "611": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S4 of Army 2"
-  },
-  "612": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "613": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "614": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "615": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(109.5) to S4 of Army 2"
-  },
-  "616": {
     "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S4 of Army 6"
-  },
-  "617": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "618": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S1 of Army 2"
-  },
-  "619": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "620": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "621": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "622": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "623": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "624": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(118.5) to S5 of Army 2"
-  },
-  "625": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "626": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "627": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "628": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "629": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "630": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "631": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "632": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(127.5) to S1 of Army 6"
-  },
-  "633": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S4 of Army 2"
-  },
-  "634": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "635": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "636": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(369.0) to S5 of Army 2"
-  },
-  "637": {
-    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(151.5) to S2 of Army 6"
-  },
-  "638": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 2 inflict damage(107.5) to S1 of Army 6"
-  },
-  "639": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "640": {
-    "armies": "Army 6 (strategy: strongest) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed"
-  },
-  "641": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 6 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 2 inflict damage(147.0) to S1 of Army 6"
-  },
-  "642": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "643": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "644": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(369.0) to S6 of Army 2"
-  },
-  "645": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "646": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S2 of Army 1 has no available_units to attack"
-  },
-  "647": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "648": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "649": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(327.0) to S6 of Army 2"
-  },
-  "650": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "651": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S5 of Army 2"
-  },
-  "652": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S5 of Army 1 has no available_units to attack"
-  },
-  "653": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "654": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "655": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "656": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S4 of Army 1 inflict damage(296.5) to S1 of Army 2"
-  },
-  "657": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S5 of Army 1 inflict damage(151.5) to S6 of Army 2"
-  },
-  "658": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "659": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(145.5) to S5 of Army 2"
-  },
-  "660": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "661": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "662": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack failed",
-    "squads": "S4 of Army 1 has no available_units to attack"
-  },
-  "663": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S1 of Army 1 inflict damage(217.5) to S1 of Army 2"
-  },
-  "664": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "665": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(151.5) to S1 of Army 2"
-  },
-  "666": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "667": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S5 of Army 2"
-  },
-  "668": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
     "attack": "the attack failed",
     "squads": "S3 of Army 1 has no available_units to attack"
   },
-  "669": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "608": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S1 of Army 1 inflict damage(345.5) to S5 of Army 6"
+  },
+  "609": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "670": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "610": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "671": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "611": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "672": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "612": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "673": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "613": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "674": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
+  "614": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack was successful",
+    "squads": "S3 of Army 1 inflict damage(151.5) to S5 of Army 6"
+  },
+  "615": {
+    "armies": "Army 6 (strategy: strongest) attacks Army 1 (strategy: random);",
     "attack": "the attack failed"
   },
-  "675": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "676": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "677": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "678": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "679": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+  "616": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack failed",
-    "squads": "S1 of Army 1 has no available_units to attack"
+    "squads": "S3 of Army 1 has no available_units to attack"
   },
-  "680": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
+  "617": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
+    "attack": "the attack failed",
+    "squads": "S3 of Army 1 has no available_units to attack"
   },
-  "681": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "682": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
+  "618": {
+    "armies": "Army 1 (strategy: random) attacks Army 6 (strategy: strongest);",
     "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(151.5) to S5 of Army 2"
-  },
-  "683": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S2 of Army 1 inflict damage(151.5) to S1 of Army 2"
-  },
-  "684": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "685": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "686": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "687": {
-    "armies": "Army 2 (strategy: strongest) attacks Army 1 (strategy: random);",
-    "attack": "the attack failed"
-  },
-  "688": {
-    "armies": "Army 1 (strategy: random) attacks Army 2 (strategy: strongest);",
-    "attack": "the attack was successful",
-    "squads": "S3 of Army 1 inflict damage(151.5) to S5 of Army 2"
+    "squads": "S5 of Army 1 inflict damage(151.5) to S5 of Army 6"
   }
 }

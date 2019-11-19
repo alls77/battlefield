@@ -35,6 +35,8 @@ class TestSoldier(unittest.TestCase):
 
     def test_is_available(self):
         self.assertTrue(self.soldier.is_available)
+        self.soldier.recharge()
+        self.assertFalse(self.soldier.is_available)
 
     def test_recharge(self):
         self.assertEqual(self.soldier.recharge_time, 0)

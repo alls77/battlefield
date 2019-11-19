@@ -26,8 +26,7 @@ class Squad:
 
     def attack(self, enemy):
         attacking_units = self.available_units
-        damage = self.inflict_damage()
-        enemy.get_damage(damage)
+        enemy.get_damage(self.inflict_damage())
 
         for unit in attacking_units:
             unit.get_experience()

@@ -31,8 +31,8 @@ class SoldierFactory(Factory):
 
 @unit_register("Vehicle")
 class VehicleFactory(Factory):
-    def create(self, data=None):
-        operators = [UNITS[VEHICLE['OPERATOR_TYPE']]().create() for _ in range(VEHICLE['OPERATOR_COUNT'])]
+    def create(self, data={'operator_count': VEHICLE['OPERATOR_COUNT'], 'operator_type': VEHICLE['OPERATOR_TYPE']}):
+        operators = [UNITS[data['operator_type']]().create() for _ in range(data['operator_count'])]
         return Vehicle(operators)
 
 
