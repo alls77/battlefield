@@ -1,8 +1,9 @@
-from utils import load_json, random, dump_json
+import os
+
+from utils import load_json, random, dump_json, logger
 from unit_factory import UNITS
 from Configs.constants import MIN_ARMY_COUNT
 from battlefield import Battlefield
-import os
 
 
 def main():
@@ -14,8 +15,8 @@ def main():
         armies.append(UNITS['Army']().create(data=data))
 
     if len(armies) >= MIN_ARMY_COUNT:
-        report = Battlefield(armies).start_battle()
-        dump_json(report, os.path.join('Configs', 'report.json'))
+        Battlefield(armies).start_battle()
+        dump_json(logger.report, os.path.join('Configs', 'report.json'))
 
 
 if __name__ == '__main__':

@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import patch, PropertyMock
+
 from Units.vehicle import Vehicle
 from Units.soldier import Soldier
 

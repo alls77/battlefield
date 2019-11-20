@@ -1,4 +1,5 @@
 from abc import abstractmethod
+
 from utils import random
 
 STRATEGIES = {}

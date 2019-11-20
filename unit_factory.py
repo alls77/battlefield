@@ -1,4 +1,5 @@
 from abc import abstractmethod
+
 from Units.vehicle import Vehicle
 from Units.soldier import Soldier
 from squad import Squad

@@ -1,4 +1,5 @@
 from statistics import mean, geometric_mean as gmean
+
 from utils import random
 from Units.unit import Unit
 from Configs.constants import VEHICLE

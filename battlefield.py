@@ -1,4 +1,4 @@
-from utils import random
+from utils import random, logger
 
 
 class Battlefield:
@@ -6,31 +6,38 @@ class Battlefield:
         self.armies = armies
 
     def start_battle(self):
-        count = 0
-        report = {}
         while len(self.active_armies) > 1:
-            count += 1
-            attacking_army = random.choice(self.active_armies)
-            defending_army = random.choice([army for army in self.active_armies
-                                            if army is not attacking_army])
-            attacking_squad = random.choice(attacking_army.active_squads)
-            defending_squad = attacking_army.strategy.choose(defending_army.active_squads)
+            self._move()
 
-            report[count] = {'armies': f'{attacking_army.name} (strategy: {attacking_army.strategy.name}) '
-                             f'attacks {defending_army.name} (strategy: {defending_army.strategy.name});'}
+    @logger.move_log
+    def _move(self):
+        attacking_army, defending_army = self._get_warring_armies()
+        attacking_squad, defending_squad = self._get_warring_squads(attacking_army, defending_army)
 
-            report[count]['attack'] = f'the attack failed'
+        if self._is_successful_attack(attacking_squad, defending_squad):
+            if self._is_available_attack(attacking_squad):
+                attacking_squad.attack(defending_squad)
 
-            if attacking_squad.attack_probability() > defending_squad.attack_probability():
-                report[count]['squads'] = f'{attacking_squad.name} of {attacking_army.name} has no available_units ' \
-                    f'to attack'
-                if len(attacking_squad.available_units) > 0:
-                    report[count]['squads'] = f'{attacking_squad.name} of {attacking_army.name} inflict damage' \
-                        f'({attacking_squad.inflict_damage()}) to {defending_squad.name} of {defending_army.name}'
-                    attacking_squad.attack(defending_squad)
-                    report[count]['attack'] = f'the attack was successful'
+    @logger.armies_log
+    def _get_warring_armies(self):
+        attacking_army = random.choice(self.active_armies)
+        defending_army = random.choice([army for army in self.active_armies
+                                        if army is not attacking_army])
+        return attacking_army, defending_army
 
-        return report
+    @logger.squads_log
+    def _get_warring_squads(self, attacking_army, defending_army):
+        attacking_squad = random.choice(attacking_army.active_squads)
+        defending_squad = attacking_army.strategy.choose(defending_army.active_squads)
+        return attacking_squad, defending_squad
+
+    @logger.successful_attack_log
+    def _is_successful_attack(self, attacking_squad, defending_squad):
+        return attacking_squad.attack_probability() > defending_squad.attack_probability()
+
+    @logger.available_attack_log
+    def _is_available_attack(self, attacking_squad):
+        return len(attacking_squad.available_units) > 0
 
     @property
     def active_armies(self):

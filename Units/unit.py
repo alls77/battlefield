@@ -1,7 +1,8 @@
-from utils import current_time_ms
+from utils import current_time_ms, _id
 
 
 class Unit:
+    @_id
     def __init__(self, health: float, recharge: int):
         self._health = health
         self._recharge = recharge

@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import Mock
+
 from Strategies.strategies import WeakestStrategy
 
 

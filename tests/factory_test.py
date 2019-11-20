@@ -1,4 +1,5 @@
 import unittest
+
 from unit_factory import SquadFactory, ArmyFactory
 
 

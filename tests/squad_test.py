@@ -1,5 +1,6 @@
-from unittest.mock import patch
 import unittest
+from unittest.mock import patch
+
 from squad import Squad
 from Units.soldier import Soldier
 
