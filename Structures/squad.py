@@ -1,14 +1,12 @@
 from statistics import geometric_mean as gmean
 
+from Structures.structure import Structure
 
-class Squad:
+
+class Squad(Structure):
     def __init__(self, name, units):
-        self._name = name
         self.units = units
-
-    @property
-    def name(self):
-        return self._name
+        super().__init__(name)
 
     @property
     def is_active(self):

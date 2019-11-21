@@ -38,7 +38,6 @@ class BattleLogger:
             result = function(*args, **kwargs)
             if not result:
                 self.report[self.data['count']]['attack'] = f'the attack failed'
-            self.data['successful_attack'] = result
             return result
 
         return wrapper

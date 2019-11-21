@@ -2,8 +2,8 @@ from abc import abstractmethod
 
 from Units.vehicle import Vehicle
 from Units.soldier import Soldier
-from squad import Squad
-from army import Army
+from Structures.squad import Squad
+from Structures.army import Army
 from Strategies.strategies import STRATEGIES
 from Configs.constants import VEHICLE
 

@@ -1,12 +1,11 @@
-class Army:
+from Structures.structure import Structure
+
+
+class Army(Structure):
     def __init__(self, name, squads, strategy):
-        self._name = name
         self.squads = squads
         self.strategy = strategy
-
-    @property
-    def name(self):
-        return self._name
+        super().__init__(name)
 
     @property
     def is_active(self):

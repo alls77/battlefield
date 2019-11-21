@@ -1,8 +1,8 @@
 import unittest
 from unittest.mock import patch
 
-from squad import Squad
 from Units.soldier import Soldier
+from Structures.squad import Squad
 
 
 class TestSquad(unittest.TestCase):
