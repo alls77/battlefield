@@ -42,20 +42,22 @@ class BattleLogger:
 
         return wrapper
 
-    def available_attack_log(self, function):
+    def attack_log(self, function):
         def wrapper(*args, **kwargs):
-            result = function(*args, **kwargs)
-            if result:
+            before_attack = sum([unit.health for unit in self.data["defending_squad"].active_units])
+            function(*args, **kwargs)
+            after_attack = sum([unit.health for unit in self.data["defending_squad"].active_units])
+
+            if before_attack > after_attack:
                 self.report[self.data['count']]['squads'] = f'{self.data["attacking_squad"].name} of ' \
                     f'{self.data["attacking_army"].name} inflict damage' \
-                    f'({self.data["attacking_squad"].inflict_damage()}) to {self.data["defending_squad"].name} of ' \
-                    f'{self.data["defending_army"].name}'
+                    f'({before_attack-after_attack}) to {self.data["defending_squad"].name} of ' \
+                    f'{self.data["defending_army"].name} (health after attack {after_attack})'
                 self.report[self.data['count']]['attack'] = f'the attack was successful'
             else:
                 self.report[self.data['count']]['squads'] = f'{self.data["attacking_squad"].name} of ' \
                     f'{self.data["attacking_army"].name} has no available_units ' \
                     f'to attack'
                 self.report[self.data['count']]['attack'] = f'the attack failed'
-            return result
 
         return wrapper

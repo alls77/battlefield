@@ -15,8 +15,7 @@ class Battlefield:
         attacking_squad, defending_squad = self._get_warring_squads(attacking_army, defending_army)
 
         if self._is_successful_attack(attacking_squad, defending_squad):
-            if self._is_available_attack(attacking_squad):
-                attacking_squad.attack(defending_squad)
+            self._attack(attacking_squad, defending_squad)
 
     @logger.armies_log
     def _get_warring_armies(self):
@@ -35,9 +34,15 @@ class Battlefield:
     def _is_successful_attack(self, attacking_squad, defending_squad):
         return attacking_squad.attack_probability() > defending_squad.attack_probability()
 
-    @logger.available_attack_log
-    def _is_available_attack(self, attacking_squad):
-        return len(attacking_squad.available_units) > 0
+    @logger.attack_log
+    def _attack(self, attacking_squad, defending_squad):
+        damage = attacking_squad.inflict_damage()
+        if damage > 0:
+            defending_squad.get_damage(damage)
+
+            for unit in attacking_squad.available_units:
+                unit.get_experience()
+                unit.recharge()
 
     @property
     def active_armies(self):
